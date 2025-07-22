@@ -3,7 +3,3 @@ numpy
 matplotlib
 sympy
 scipy
-train_test_split
- RandomForestRegressor
-mean_squared_error
-folium
