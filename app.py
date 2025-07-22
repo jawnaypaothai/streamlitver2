@@ -1,0 +1,1 @@
+[Paste full content of indeter.py here from earlier]
