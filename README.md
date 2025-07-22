@@ -7,4 +7,4 @@
 1. สร้าง GitHub Repository และอัปโหลดโฟลเดอร์นี้ทั้งหมด
 2. ไปที่ https://streamlit.io/cloud
 3. คลิก “New App” และเชื่อมกับ GitHub Repo ของคุณ
-4. เลือก `app.py` แล้วคลิก Deploy
+4. เลือก `indeter.py` แล้วคลิก Deploy
